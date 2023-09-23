@@ -1,4 +1,4 @@
-# Bikesharing with Tableau
+# NY Citibike with Tableau
 
 Click here to view Tableau Public: [https://public.tableau.com/app/profile/azusena.arroyo/viz/NYCbikeshareanalysis/NYCBikeShareAnalysis]
 
